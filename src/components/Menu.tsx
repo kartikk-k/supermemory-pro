@@ -12,7 +12,7 @@ function Menu() {
                     <p className="opacity-0 duration-200 group-hover:opacity-100 shrink-0">Add content</p>
                 </Link>
 
-                <span className='w-full h-[2px] bg-white/10 -my-2'></span>
+                <span className='w-full h-[2px] bg-[#6A737D]/20 -my-2'></span>
 
                 <Link href={'/'} className="flex cursor-pointer items-center gap-3 px-1 duration-200 hover:scale-105 hover:text-[#bfc4c9] active:scale-90">
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
