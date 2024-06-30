@@ -4,7 +4,7 @@ import Logo from '../Logo'
 
 function WritingHeader() {
     return (
-        <div className='w-full h-16 p-4 flex items-center justify-between'>
+        <div className='w-full h-18 p-4 flex items-center justify-between'>
 
             <div className='w-40'>
                 <Logo />

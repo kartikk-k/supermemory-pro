@@ -24,6 +24,10 @@ body {
 .all-center {
 	@apply flex items-center justify-center;
 }
+/* no scrollbar visibility */
+.no-scrollbar::-webkit-scrollbar {
+	width: 0px;
+  }
 
 @layer utilities {
 	.text-balance {
