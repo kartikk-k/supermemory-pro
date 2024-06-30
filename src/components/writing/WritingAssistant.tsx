@@ -8,7 +8,7 @@ function WritingAssistant() {
             </h1>
 
             <p >Rasa: An open-source conversational AI platform used to create intelligent chatbots and virtual assistants for customer service and support. [1]</p>
-            <p >	OpenAI (GPT Models): OpenAI's Generative Pre-trained Transformer (GPT) models drive natural language processing applications such as chatbots, virtual assistants, and content generation tools.</p>
+            <p >	OpenAI (GPT Models): OpenAI&apos;s Generative Pre-trained Transformer (GPT) models drive natural language processing applications such as chatbots, virtual assistants, and content generation tools.</p>
 
         </div>
     )
